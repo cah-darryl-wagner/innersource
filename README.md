@@ -11,8 +11,6 @@
 ### Creating an InnerSource Culture
 - [Understanding cultural ingredients](cultural-ingredients/)
 - [Working through cultural resistance](cultural-resistance/)
-
-
 - [Crafting discoverable repositories](discoverable/)
 - [Useful templates](templates/)
 - [Measuring success](metrics/)
